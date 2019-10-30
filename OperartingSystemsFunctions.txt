@@ -1,0 +1,3 @@
+The purpose of an Operating System is to communicate between the User and the computer hardware itself.
+The Operating System has many other important functions.
+These functions include security, control over system performance, error detecting, memory management, processor management, device management, and file management.
