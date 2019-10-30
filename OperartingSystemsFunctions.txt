@@ -1,3 +1,2 @@
-The purpose of an Operating System is to communicate between the User and the computer hardware itself.
-The Operating System has many other important functions.
-These functions include security, control over system performance, error detecting, memory management, processor management, device management, and file management.
+The purpose of an Operating System is to communicate between the User and the computer hardware itself.  If there was no operating system how would the User be able to tell the device where to move the mouse?  Or where the keyboard is supposed to type?  Where is the image of the application, and where is it suppose to go?  Without the communication between the Operating system and the User this would not be possible.
+The Operating System has many other important functions. These functions include security, control over system performance, error detecting, memory management, processor management, device management, and file management.  These functions are high priority when it comes to being a successful Operating System.  Specifically without the management the Operating System would become fragmented and it would not function properly.
